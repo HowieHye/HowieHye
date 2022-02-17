@@ -1,12 +1,17 @@
+# Hi there I am HowieHye 👋
+<a href="https://howiehye.top">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=HowieHye&show_icons=true&theme=default" />
+</a>
 
+📚 Graduate student in Biomedical Engineering
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=HowieHye&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
+😀 Hackintosher
 
-<h2> Hi there 👋 I am <a href="https://github.com/HowieHye" target="_blank">HowieHye</a></h2>
+😊 Welcome to [My homepage](https://howiehye.top)
 
-<p>👨👨‍🎓‍ A prospective graduate student</p>
-<p>👨💻 Hackintosher </p>
+## How to reach me
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HowieHye">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HowieHye&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
+- 📧 Email [Follow Up Here](mailto:howiehye@163.top)
 
 
