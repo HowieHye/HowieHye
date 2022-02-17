@@ -12,6 +12,7 @@
 ## How to reach me
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HowieHye&layout=compact">
 
-- 📧 Email [Follow Up Here](mailto:howiehye@163.top)
+- 📧 Email [Follow Up Here](mailto:howiehye@163.com)
+- ✈️ Telegram [@howiehye](https://t.me/howiehye)
 
 
