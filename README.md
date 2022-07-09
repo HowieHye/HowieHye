@@ -1,4 +1,4 @@
-# Hi there I am HowieHye 👋
+# Hi there I am Yu Hui 👋
 <a href="https://howiehye.top">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=HowieHye&show_icons=true&theme=default" />
 </a>
