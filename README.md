@@ -7,7 +7,7 @@
 
 😀 Hackintosher
 
-😊 Welcome to [My Blog](https://howiehye.top)
+😊 Welcome to [My Blog](https://blog.howiehye.top)
 
 ## How to reach me
 
